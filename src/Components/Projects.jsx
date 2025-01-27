@@ -20,13 +20,22 @@ export const PROJECTS = [
         technologies: ["React", "Material-UI", "CSS", "JavaScript"]
     },
     {
+        title: "Ecommerce website",
+        image: "/images/Shopingcartpage.png",
+        url: "https://router-task-mu.vercel.app/",
+        description:
+            "This eCommerce platform offers a seamless shopping experience, allowing you to browse, compare, and purchase products effortlessly. With user-friendly navigation and secure payment options, it ensures smooth transactions from start to finish. Stay updated on your orders and enjoy personalized recommendations to enhance your shopping journey.",
+        technologies: ["Javascript", "CSS", "HTML","React","React-router-dom"]
+    },
+    {
         title: "Income-Expense-Tracker",
         image: "/images/IncomeExpenceCal.png",
         url: "https://income-expense-tracker-delta.vercel.app/",
         description:
             "This web-based application helps you effortlessly track your income and expenses, providing clear insights into your financial health. Stay organized with intuitive tools for recording transactions and visualizing your spending patterns.",
         technologies: ["Javascript", "CSS", "HTML"]
-    }
+    },
+  
 ];
 
 const Projects = () => {
