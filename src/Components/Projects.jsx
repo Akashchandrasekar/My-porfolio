@@ -21,11 +21,11 @@ export const PROJECTS = [
     },
     {
         title: "Ecommerce website",
-        image: "/images/Shopingcartpage.png",
-        url: "https://router-task-mu.vercel.app/",
+        image: "/images/Ecommerce.png",
+        url: "https://figma-design-liard-three.vercel.app/",
         description:
             "This eCommerce platform offers a seamless shopping experience, allowing you to browse, compare, and purchase products effortlessly. With user-friendly navigation and secure payment options, it ensures smooth transactions from start to finish. Stay updated on your orders and enjoy personalized recommendations to enhance your shopping journey.",
-        technologies: ["Javascript", "CSS", "HTML","React","React-router-dom"]
+        technologies: ["Javascript", "CSS", "HTML","React","React-router-dom","Tailwindcss","Flowbite","ReactIcons","HeroIcons"]
     },
     {
         title: "Income-Expense-Tracker",
