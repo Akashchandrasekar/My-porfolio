@@ -75,7 +75,7 @@ const Hero = () => {
             </motion.p>
 
             <motion.a
-              href="https://drive.google.com/file/d/10GHy_9TprKXigcIkwHcmNtXvJrzUwYhj/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1zq0e0DSMPJaXiiO0gY2Ol6dt3aFiTObc/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-full px-6 py-3 text-sm text-white font-medium shadow-lg transition-transform duration-300 hover:scale-105"
